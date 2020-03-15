@@ -10,7 +10,9 @@ public class LosAngeles {
 
 
 		System.out.println("This is an update from github website");
-		
+		for (int i=0 ; i<10; i++) {
+			System.out.println(i);
+		}
 	}
 
 }
